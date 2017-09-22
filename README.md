@@ -1,8 +1,6 @@
-
-**All the files are in ZIP archive. Please download the zip and extract it to the desired folder. It is a complete package with pyamf folder included. The only thing you need to change is the config.py file wehre you need to enter the registered tinychat username instead of CHANGE_TO_YOUR_USERNAME & your password for the same username instead of CHANGE_TO_YOUR_PASSWORD.
-
-Thanks,
-Team Tinydon.**
+All the files are in ZIP archive. Please download the zip and extract it to the desired folder. It is a complete package with pyamf folder included. The only thing you need to change is the config.py file wehre you need to enter the registered tinychat username instead of CHANGE_TO_YOUR_USERNAME & your password for the same username instead of CHANGE_TO_YOUR_PASSWORD.<br><br>
+Thanks,<br>
+Team Tinydon.
 
 
 # Tinydon - Donbot - Basic (beta)
